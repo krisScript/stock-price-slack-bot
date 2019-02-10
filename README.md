@@ -42,7 +42,7 @@ npm install
 
 ## Running the app
 
-To start on a localhost server
+
 
 #### Yarn
 
