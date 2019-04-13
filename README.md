@@ -1,5 +1,5 @@
 # Stock Price Slack Bot
-When called with one or more company symbols the bot will return response containing the ,symbol,company name,latest price,latest time and change in the stock price.
+When called with one or more company symbols the bot will return a response containing the symbol, company name, latest price, latest time and changes in the stock price.
 
 Data provided by [IEX](https://iextrading.com/developer/)
 
